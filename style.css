@@ -1,20 +1,16 @@
 
 body{
-    font-family:'karla',sans-serif;
+    font-family: 'karla',sans-serif;
     /* font-weight:  400; */
    background-color:hsl(206, 47%, 93%); 
 }
 
 .page{
-    
-    margin-top: 55px;
-     margin-right: 300px;
-     margin-left: 330px;
-     /* box-shadow: 1px 1px   lightblue;   */
-
-     
+    margin-top: 135px;
+     margin-right: 500px;
+     /* margin-left: 40px; */
+     /* box-shadow: 1px 1px   lightblue;   */ 
 }
-
 
 .main-h3{
     color: hsl(179, 62%, 43%);
@@ -94,4 +90,3 @@ body{
     justify-content: center;
 
 }
-
